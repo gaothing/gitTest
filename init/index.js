@@ -1,2 +1,2 @@
 export const a = "init"
-export const b = '3'
+export const b = '3git'
